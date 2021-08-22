@@ -1,0 +1,9 @@
+[general]
+name=StylePolice
+description=Force global default style for polygon vector layers
+about=With plugin activated, any polygon vector layer added to a project will be styled with a black border and transparent fill
+version=1.0
+qgisMinimumVersion=3.0
+author=Ben Wirf
+email=ben.wirf@gmail.com
+repository=URL to the code repository

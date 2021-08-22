@@ -1,1 +1,1 @@
-# qgis-Filter_Layout_Legend
+# qgis-Enforce style on layer load for polygon vector layers.
